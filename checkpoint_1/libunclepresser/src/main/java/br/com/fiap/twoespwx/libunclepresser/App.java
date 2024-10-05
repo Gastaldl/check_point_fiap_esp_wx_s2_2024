@@ -2,7 +2,7 @@
  * Grupo: MIB - Mens In Bussiness
  * Autores: 
  *      - Márcio Gastaldi   -   RM98811
- *      - Arthut Bessa      -   RM99215
+ *      - Arthur Bessa      -   RM99215
  *      - Davi Desenzi      -   RM550849
  *      - Joâo Victor       -   RM551410
  */
